@@ -3,7 +3,7 @@ const fs = require('fs')
 const express = require('express')
 const app = express()
 const pug = require('pug')
-const port = 3000
+const port = process.env.PORT || 3000
 
 const html = `tr
     td(style={ "padding": "10px"})
