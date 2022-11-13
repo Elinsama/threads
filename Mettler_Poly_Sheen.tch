@@ -1,0 +1,351 @@
+0010,Mettler Poly Sheen,Silky White,A,225,233,255
+0015,Mettler Poly Sheen,White,A,224,231,255
+0017,Mettler Poly Sheen,Paper White,A,221,230,255
+0020,Mettler Poly Sheen,Black,A,0,0,0
+0101,Mettler Poly Sheen,Eggshell,A,247,246,230
+0108,Mettler Poly Sheen,Cobblestone,A,116,123,124
+0111,Mettler Poly Sheen,Whale,A,96,105,104
+0112,Mettler Poly Sheen,Leadville,A,107,111,121
+0124,Mettler Poly Sheen,Fieldstone,A,186,191,182
+0131,Mettler Poly Sheen,Smoke,A,150,157,162
+0132,Mettler Poly Sheen,Dark Pewter,A,67,79,87
+0142,Mettler Poly Sheen,Sterling,A,160,171,171
+0145,Mettler Poly Sheen,Skylight,A,183,197,201
+0150,Mettler Poly Sheen,Mystic Grey,A,189,190,188
+0151,Mettler Poly Sheen,Cloud,A,186,187,178
+0152,Mettler Poly Sheen,Dolphin,A,130,134,130
+0170,Mettler Poly Sheen,Sea Shell,A,238,238,227
+0176,Mettler Poly Sheen,Fog,A,225,231,232
+0180,Mettler Poly Sheen,Whitewash,A,223,219,218
+0182,Mettler Poly Sheen,Saturn Grey,A,206,209,210
+0184,Mettler Poly Sheen,Pearl,A,212,214,213
+0221,Mettler Poly Sheen,Light Brass,A,220,193,69
+0232,Mettler Poly Sheen,Seaweed,A,194,176,87
+0250,Mettler Poly Sheen,Lemon Frast,A,237,241,193
+0270,Mettler Poly Sheen,Buttercream,A,242,242,219
+0310,Mettler Poly Sheen,Yellow,A,255,223,67
+0311,Mettler Poly Sheen,Canary,A,255,195,0
+0345,Mettler Poly Sheen,Moss,A,110,90,33
+0352,Mettler Poly Sheen,Marsh,A,180,171,93
+0442,Mettler Poly Sheen,Tarnished Gold,A,156,132,51
+0453,Mettler Poly Sheen,Army Drab,A,150,149,108
+0463,Mettler Poly Sheen,Cypress,A,122,126,103
+0465,Mettler Poly Sheen,Umber,A,76,73,44
+0501,Mettler Poly Sheen,Sun,A,255,255,20
+0504,Mettler Poly Sheen,Mimosa,A,250,230,86
+0506,Mettler Poly Sheen,Yellow Bird,A,250,188,58
+0520,Mettler Poly Sheen,Daffodil,A,249,231,147
+0532,Mettler Poly Sheen,Champagne,A,204,178,126
+0542,Mettler Poly Sheen,Ochre,A,181,139,30
+0546,Mettler Poly Sheen,Ginger,A,180,145,48
+0552,Mettler Poly Sheen,Flax,A,213,206,159
+0600,Mettler Poly Sheen,Citrus,A,255,208,2
+0605,Mettler Poly Sheen,Daisy,A,255,199,0
+0608,Mettler Poly Sheen,Sunshine,A,255,191,4
+0622,Mettler Poly Sheen,Star Gold,A,249,223,119
+0630,Mettler Poly Sheen,Buttercup,A,252,208,101
+0640,Mettler Poly Sheen,Parchment,A,249,210,134
+0651,Mettler Poly Sheen,Cornsilk,A,216,180,133
+0660,Mettler Poly Sheen,Vanilla,A,251,235,193
+0670,Mettler Poly Sheen,Cream,A,241,242,224
+0672,Mettler Poly Sheen,Baguette,A,191,186,165
+0700,Mettler Poly Sheen,Bright Yellow,A,255,182,23
+0702,Mettler Poly Sheen,Papaya,A,249,179,33
+0704,Mettler Poly Sheen,Gold,A,222,158,38
+0706,Mettler Poly Sheen,Sunflower,A,255,185,25
+0713,Mettler Poly Sheen,Lemon,A,251,196,81
+0722,Mettler Poly Sheen,Khaki,A,148,136,119
+0747,Mettler Poly Sheen,Golden Brown,A,101,83,48
+0761,Mettler Poly Sheen,Oat,A,213,202,169
+0771,Mettler Poly Sheen,Rattan,A,234,222,187
+0776,Mettler Poly Sheen,Sage,A,115,107,93
+0800,Mettler Poly Sheen,Golden Rod,A,249,158,0
+0811,Mettler Poly Sheen,Candlelight,A,232,173,77
+0821,Mettler Poly Sheen,Honey Gold,A,203,142,51
+0822,Mettler Poly Sheen,Palamino,A,179,137,67
+0824,Mettler Poly Sheen,Liberty Gold,A,199,129,13
+0832,Mettler Poly Sheen,Sisal,A,182,143,86
+0842,Mettler Poly Sheen,Toffee,A,185,140,90
+0851,Mettler Poly Sheen,Old Gold,A,201,164,113
+0853,Mettler Poly Sheen,Pecan,A,142,118,88
+0861,Mettler Poly Sheen,Tantone,A,192,183,160
+0862,Mettler Poly Sheen,Wild Rice,A,146,135,117
+0870,Mettler Poly Sheen,Muslin,A,231,226,202
+0873,Mettler Poly Sheen,Stone,A,155,151,135
+0874,Mettler Poly Sheen,Gravel,A,167,158,145
+0904,Mettler Poly Sheen,Spanish Gold,A,229,132,20
+0922,Mettler Poly Sheen,Ashley Gold,A,184,114,42
+0931,Mettler Poly Sheen,Honey,A,167,98,30
+0932,Mettler Poly Sheen,Nutmeg,A,150,89,38
+0933,Mettler Poly Sheen,Redwood,A,109,74,47
+0934,Mettler Poly Sheen,Fawn,A,180,152,118
+0940,Mettler Poly Sheen,Autumn Leaf,A,171,102,16
+0941,Mettler Poly Sheen,Golden Grain,A,151,107,47
+0945,Mettler Poly Sheen,Pine Bark,A,89,74,56
+0970,Mettler Poly Sheen,Linen,A,246,241,214
+1010,Mettler Poly Sheen,Toast,A,227,170,88
+1055,Mettler Poly Sheen,Bark,A,100,76,58
+1060,Mettler Poly Sheen,Shrimp Pink,A,248,209,175
+1061,Mettler Poly Sheen,Taupe,A,160,137,118
+1102,Mettler Poly Sheen,Pumpkin,A,236,112,10
+1106,Mettler Poly Sheen,Orange,A,255,96,19
+1114,Mettler Poly Sheen,Clay,A,205,107,57
+1115,Mettler Poly Sheen,Copper,A,161,90,50
+1120,Mettler Poly Sheen, Sunset,A,255,149,0
+1123,Mettler Poly Sheen,Carmel Cream,A,177,149,119
+1134,Mettler Poly Sheen,Light Cocoa,A,124,75,40
+1140,Mettler Poly Sheen,Meringue,A,228,193,152
+1141,Mettler Poly Sheen,Tan,A,201,165,127
+1154,Mettler Poly Sheen,Penny,A,135,96,65
+1161,Mettler Poly Sheen,Straw,A,238,223,204
+1172,Mettler Poly Sheen,Ivory,A,207,191,160
+1220,Mettler Poly Sheen,Apricot,A,237,126,67
+1252,Mettler Poly Sheen,Dark Tan,A,175,148,126
+1300,Mettler Poly Sheen,Tangerine,A,239,101,34
+1301,Mettler Poly Sheen,Paprika,A,209,72,32
+1304,Mettler Poly Sheen,Red Pepper,A,229,78,11
+1305,Mettler Poly Sheen,Fax Fire,A,240,70,21
+1306,Mettler Poly Sheen,Devil Red,A,255,49,0
+1311,Mettler Poly Sheen,Date,A,163,78,46
+1312,Mettler Poly Sheen,Burnt Orange,A,161,70,40
+1332,Mettler Poly Sheen,Harvest,A,198,106,65
+1334,Mettler Poly Sheen,Spice,A,140,58,33
+1335,Mettler Poly Sheen,Dark Rust,A,167,63,37
+1342,Mettler Poly Sheen,Rust,A,120,67,38
+1344,Mettler Poly Sheen,Coffee Bean,A,140,0,0
+1346,Mettler Poly Sheen,Cinnamon,A,74,51,40
+1351,Mettler Poly Sheen,Starfish,A,251,173,147
+1352,Mettler Poly Sheen,Salmon,A,246,152,119
+1355,Mettler Poly Sheen,Fax,A,91,57,41
+1362,Mettler Poly Sheen,Shrimp,A,245,196,154
+1366,Mettler Poly Sheen,Mahagony,A,60,46,43
+1375,Mettler Poly Sheen,Dark Charcoal,A,75,77,69
+1430,Mettler Poly Sheen,Melon,A,216,120,98
+1501,Mettler Poly Sheen,Watermelon,A,255,42,45
+1514,Mettler Poly Sheen,Brick,A,136,47,35
+1521,Mettler Poly Sheen,Flamingo,A,213,95,79
+1532,Mettler Poly Sheen,Coral,A,247,170,157
+1551,Mettler Poly Sheen,Pink Clay,A,244,180,162
+1565,Mettler Poly Sheen,Espresso,A,106,82,76
+1600,Mettler Poly Sheen,Spanish Tile,A,202,88,73
+1701,Mettler Poly Sheen,Red Berry,A,218,66,50
+1703,Mettler Poly Sheen,Poppy,A,194,35,25
+1704,Mettler Poly Sheen,Candy Apple,A,189,45,40
+1725,Mettler Poly Sheen,Terra Cotta,A,164,63,58
+1730,Mettler Poly Sheen,Persimmon,A,250,90,118
+1755,Mettler Poly Sheen,Hyacinth,A,221,179,176
+1760,Mettler Poly Sheen,Twine,A,216,187,170
+1761,Mettler Poly Sheen,Tea Rose,A,213,180,171
+1800,Mettler Poly Sheen,Wildfire,A,178,35,39
+1805,Mettler Poly Sheen,Strawberry,A,190,51,64
+1840,Mettler Poly Sheen,Corsage,A,237,147,156
+1860,Mettler Poly Sheen,Shell,A,241,193,191
+1874,Mettler Poly Sheen,Pewter,A,94,93,85
+1876,Mettler Poly Sheen,Chocolat,A,67,55,43
+1900,Mettler Poly Sheen,Geranium,A,175,35,57
+1902,Mettler Poly Sheen,Poinsettia,A,157,24,27
+1903,Mettler Poly Sheen,Lipstick,A,175,30,42
+1904,Mettler Poly Sheen,Cardinal,A,165,28,35
+1906,Mettler Poly Sheen,Tulip,A,155,30,60
+1911,Mettler Poly Sheen,Foliage Rose,A,139,27,37
+1912,Mettler Poly Sheen,Winterberry,A,121,36,47
+1913,Mettler Poly Sheen,Cherry,A,129,35,37
+1921,Mettler Poly Sheen,Blossom,A,170,71,86
+1940,Mettler Poly Sheen,Chrysanthemum,A,255,106,139
+1950,Mettler Poly Sheen,Tropical Pink,A,232,75,120
+1972,Mettler Poly Sheen,Silvery Grey,A,145,151,154
+2011,Mettler Poly Sheen,Fire Engine,A,134,42,55
+2022,Mettler Poly Sheen,Rio Red,A,125,47,55
+2051,Mettler Poly Sheen,Teaberry,A,179,139,144
+2101,Mettler Poly Sheen,Country Red,A,158,26,44
+2113,Mettler Poly Sheen,Cranberry,A,105,34,47
+2115,Mettler Poly Sheen,Beet Red,A,77,34,41
+2123,Mettler Poly Sheen,Bordeaux,A,94,29,37
+2152,Mettler Poly Sheen,Heather Pink,A,207,133,152
+2153,Mettler Poly Sheen,Dusty Mauve,A,193,127,145
+2155,Mettler Poly Sheen,Pink Tulip,A,250,187,199
+2160,Mettler Poly Sheen,Iced Pink,A,250,205,208
+2166,Mettler Poly Sheen,Flesh,A,225,199,196
+2170,Mettler Poly Sheen,Chiffon,A,239,213,209
+2171,Mettler Poly Sheen,Blush,A,255,231,228
+2220,Mettler Poly Sheen,Tropicana,A,234,108,151
+2222,Mettler Poly Sheen,Burgundy,A,108,46,62
+2224,Mettler Poly Sheen,Claret,A,103,49,59
+2241,Mettler Poly Sheen,Mauve,A,164,96,114
+2250,Mettler Poly Sheen,Petal Pink,A,240,192,204
+2300,Mettler Poly Sheen,Bright Ruby,A,172,29,89
+2320,Mettler Poly Sheen,Raspberry,A,193,59,102
+2333,Mettler Poly Sheen,Wine,A,86,32,53
+2336,Mettler Poly Sheen,Maroon,A,71,53,61
+2363,Mettler Poly Sheen,Camation,A,247,222,234
+2500,Mettler Poly Sheen,Baysenberry,A,121,48,89
+2504,Mettler Poly Sheen,Plum,A,136,69,127
+2506,Mettler Poly Sheen,Cerise,A,133,41,91
+2510,Mettler Poly Sheen,Roseate,A,233,148,226
+2520,Mettler Poly Sheen,Garden Rose,A,210,89,142
+2521,Mettler Poly Sheen,Fuschia,A,169,37,88
+2530,Mettler Poly Sheen,Rose,A,246,146,186
+2550,Mettler Poly Sheen,Soft Pink,A,228,156,196
+2560,Mettler Poly Sheen,Azalea Pink,A,241,167,201
+2576,Mettler Poly Sheen,Greyhound,A,95,95,106
+2600,Mettler Poly Sheen,Dusty Grape,A,116,68,113
+2640,Mettler Poly Sheen,Frosted Plum,A,184,137,185
+2650,Mettler Poly Sheen,Impatient,A,218,186,208
+2655,Mettler Poly Sheen,Aura,A,230,212,236
+2674,Mettler Poly Sheen,Steel,A,113,124,138
+2711,Mettler Poly Sheen,Dark Current,A,105,56,97
+2715,Mettler Poly Sheen,Pansy,A,87,41,92
+2720,Mettler Poly Sheen,Sangria,A,118,60,115
+2721,Mettler Poly Sheen,Very Berry,A,211,134,227
+2761,Mettler Poly Sheen,Desert,A,225,214,226
+2764,Mettler Poly Sheen,Violet,A,162,134,159
+2810,Mettler Poly Sheen,Orchid,A,112,70,129
+2830,Mettler Poly Sheen,Wild Iris,A,135,110,159
+2832,Mettler Poly Sheen,Easter Purple,A,123,89,128
+2900,Mettler Poly Sheen,Deep Purple,A,70,44,122
+2905,Mettler Poly Sheen,Iris Blue,A,89,73,145
+2910,Mettler Poly Sheen,Grape,A,117,93,166
+2912,Mettler Poly Sheen,Sugar Plum,A,158,80,175
+2920,Mettler Poly Sheen,Purple,A,113,100,158
+3040,Mettler Poly Sheen,Lavender,A,188,178,216
+3045,Mettler Poly Sheen,Cachet,A,182,157,196
+3062,Mettler Poly Sheen,Cinder,A,117,122,135
+3102,Mettler Poly Sheen,Provence,A,33,46,101
+3110,Mettler Poly Sheen,Dark Ink,A,52,48,111
+3114,Mettler Poly Sheen,Purple Twist,A,59,50,100
+3150,Mettler Poly Sheen,Stainless,A,234,234,234
+3151,Mettler Poly Sheen,Blue Dawn,A,223,223,255
+3210,Mettler Poly Sheen,Blueberry,A,74,90,172
+3211,Mettler Poly Sheen,Twilight,A,77,90,142
+3241,Mettler Poly Sheen,Amethyst Frost,A,129,131,161
+3251,Mettler Poly Sheen,Haze,A,145,144,168
+3323,Mettler Poly Sheen,Delft,A,38,54,99
+3331,Mettler Poly Sheen,Cadet Blue,A,129,158,212
+3333,Mettler Poly Sheen,Fire Blue,A,26,54,119
+3335,Mettler Poly Sheen,Flag Blue,A,33,69,140
+3344,Mettler Poly Sheen,Midnight,A,35,41,54
+3353,Mettler Poly Sheen,Light Midnight,A,35,49,93
+3355,Mettler Poly Sheen,Dark Indigo,A,32,41,65
+3444,Mettler Poly Sheen,Concord,A,46,67,86
+3522,Mettler Poly Sheen,Blue,A,5,87,157
+3536,Mettler Poly Sheen,Heraldic,A,55,43,79
+3541,Mettler Poly Sheen,Venetian Blue,A,64,63,152
+3543,Mettler Poly Sheen,Royal Blue,A,41,80,149
+3544,Mettler Poly Sheen,Sapphire,A,13,71,142
+3554,Mettler Poly Sheen,Navy,A,28,41,61
+3600,Mettler Poly Sheen,Nordic Blue,A,43,100,165
+3611,Mettler Poly Sheen,Blue Ribbon,A,39,91,160
+3612,Mettler Poly Sheen,Starlight Blue,A,42,92,168
+3620,Mettler Poly Sheen,Marine Blue,A,0,102,151
+3622,Mettler Poly Sheen,Imperial Blue,A,25,79,129
+3640,Mettler Poly Sheen,Lake Blue,A,153,189,232
+3641,Mettler Poly Sheen,Wedgewood,A,110,156,198
+3650,Mettler Poly Sheen,Ice Cap,A,187,208,228
+3652,Mettler Poly Sheen,Baby Blue,A,155,191,227
+3710,Mettler Poly Sheen,Blue Bird,A,0,132,196
+3711,Mettler Poly Sheen,Dolphin Blue,A,132,193,255
+3722,Mettler Poly Sheen,Empire Blue,A,0,142,210
+3732,Mettler Poly Sheen,Slate Blue,A,32,74,104
+3743,Mettler Poly Sheen,Harbor,A,47,78,105
+3750,Mettler Poly Sheen,Winter Frost,A,161,189,203
+3761,Mettler Poly Sheen,Wintersky,A,164,199,228
+3762,Mettler Poly Sheen,Country Blue,A,167,204,226
+3770,Mettler Poly Sheen,Oyster,A,199,209,210
+3810,Mettler Poly Sheen,Laguna,A,73,126,170
+3815,Mettler Poly Sheen,Reef Blue,A,69,151,207
+3820,Mettler Poly Sheen,Celestial,A,105,166,208
+3840,Mettler Poly Sheen,Oxford,A,153,193,222
+3842,Mettler Poly Sheen,Copenhagen,A,87,124,137
+3853,Mettler Poly Sheen,Ash Blue,A,156,163,173
+3900,Mettler Poly Sheen,Cerulean,A,0,123,180
+3901,Mettler Poly Sheen,Tropical Blue,A,0,127,178
+3902,Mettler Poly Sheen,Colonial Blue,A,11,105,157
+3906,Mettler Poly Sheen,Pacific Blue,A,12,172,233
+3910,Mettler Poly Sheen,Crystal Blue,A,97,186,223
+3920,Mettler Poly Sheen,Chicory,A,120,199,242
+3951,Mettler Poly Sheen,Azure Blue,A,141,178,204
+3953,Mettler Poly Sheen,Ocean Blue,A,91,122,148
+3962,Mettler Poly Sheen,River Mist,A,152,211,240
+3971,Mettler Poly Sheen,Silver,A,186,194,196
+4010,Mettler Poly Sheen,Carribean Blue,A,31,151,172
+4032,Mettler Poly Sheen,Teal,A,61,121,145
+4033,Mettler Poly Sheen,Tartan Blue,A,34,89,103
+4071,Mettler Poly Sheen,Gjacier Green,A,203,220,226
+4073,Mettler Poly Sheen,Metal,A,140,145,148
+4101,Mettler Poly Sheen,Wave Blue,A,19,150,183
+4103,Mettler Poly Sheen,California Blue,A,0,157,189
+4111,Mettler Poly Sheen,Turquoise,A,67,181,205
+4113,Mettler Poly Sheen,Alexis Blue,A,41,163,192
+4114,Mettler Poly Sheen,Danish Teal,A,13,208,242
+4116,Mettler Poly Sheen,Dark Teal,A,0,120,144
+4122,Mettler Poly Sheen,Peacock,A,165,235,250
+4133,Mettler Poly Sheen,Deep Ocean,A,27,76,95
+4174,Mettler Poly Sheen,Charcoal,A,49,60,63
+4220,Mettler Poly Sheen,Island Green,A,83,190,196
+4230,Mettler Poly Sheen,Aqua,A,130,207,225
+4240,Mettler Poly Sheen,Spearmint,A,150,220,231
+4250,Mettler Poly Sheen,Snomoon,A,180,216,211
+4332,Mettler Poly Sheen,Rouh Sea,A,180,192,186
+4410,Mettler Poly Sheen,Aqua Velva,A,0,132,133
+4421,Mettler Poly Sheen,Light Mallard,A,8,130,139
+4423,Mettler Poly Sheen,Marina Aqua,A,0,156,159
+4425,Mettler Poly Sheen,Dark Aqua,A,0,127,129
+4430,Mettler Poly Sheen,Island Waters,A,117,196,202
+4442,Mettler Poly Sheen,Deep Sea Blue,A,0,91,103
+4452,Mettler Poly Sheen,Truly Teal,A,18,137,143
+4515,Mettler Poly Sheen,Spruce,A,0,73,76
+4531,Mettler Poly Sheen,Carribean,A,0,131,146
+4610,Mettler Poly Sheen,Deep Aqua,A,49,155,150
+4620,Mettler Poly Sheen,Jade,A,80,180,172
+4625,Mettler Poly Sheen,Seagreen,A,20,116,106
+4643,Mettler Poly Sheen,Amazon,A,48,105,109
+4644,Mettler Poly Sheen,Mallard,A,51,93,97
+5005,Mettler Poly Sheen,Rain Forest,A,0,107,92
+5010,Mettler Poly Sheen,Scotty Green,A,0,161,143
+5050,Mettler Poly Sheen,Luster,A,175,226,215
+5100,Mettler Poly Sheen,Green,A,0,127,99
+5101,Mettler Poly Sheen,Dark Jade,A,18,145,123
+5115,Mettler Poly Sheen,Baccarrat Green,A,64,181,156
+5210,Mettler Poly Sheen,Trellis Green,A,52,165,117
+5220,Mettler Poly Sheen,Silver Sage,A,141,213,179
+5230,Mettler Poly Sheen,Bottle Green,A,111,192,159
+5233,Mettler Poly Sheen,Field Green,A,39,106,87
+5324,Mettler Poly Sheen,Bright Green,A,32,91,62
+5326,Mettler Poly Sheen,Evergreen,A,28,81,56
+5335,Mettler Poly Sheen,Swamp,A,14,76,56
+5374,Mettler Poly Sheen,Forest Green,A,26,60,54
+5400,Mettler Poly Sheen,Scrub Green,A,35,122,50
+5411,Mettler Poly Sheen,Shamrock,A,0,147,75
+5415,Mettler Poly Sheen,Irish Green,A,0,130,68
+5422,Mettler Poly Sheen,Swiss Ivy,A,23,124,76
+5500,Mettler Poly Sheen,Limedrop,A,124,229,83
+5510,Mettler Poly Sheen,Emerald,A,75,160,68
+5513,Mettler Poly Sheen,Ming,A,63,135,54
+5515,Mettler Poly Sheen,Kelly,A,0,144,79
+5531,Mettler Poly Sheen,Pear,A,120,165,96
+5552,Mettler Poly Sheen,Palm Leaf,A,128,147,131
+5555,Mettler Poly Sheen,Deep Green,A,43,74,49
+5610,Mettler Poly Sheen,Bright Mini,A,135,186,97
+5613,Mettler Poly Sheen,Light Kelly,A,39,164,60
+5633,Mettler Poly Sheen,Lime,A,70,113,49
+5643,Mettler Poly Sheen,Green Dust,A,56,98,59
+5650,Mettler Poly Sheen,Spring Frost,A,172,199,148
+5664,Mettler Poly Sheen,Willow,A,109,122,107
+5722,Mettler Poly Sheen,Green Grass,A,44,139,20
+5730,Mettler Poly Sheen,Apple Green,A,179,233,129
+5740,Mettler Poly Sheen,Mint,A,233,255,210
+5770,Mettler Poly Sheen,Spanish Moss,A,232,255,243
+5822,Mettler Poly Sheen,Kiwi,A,159,179,120
+5833,Mettler Poly Sheen,Limabean,A,110,127,52
+5866,Mettler Poly Sheen,Herb Green,A,50,61,45
+5912,Mettler Poly Sheen,Erin Green,A,145,177,45
+5933,Mettler Poly Sheen,Grasshopper,A,85,103,39
+5934,Mettler Poly Sheen,Moss Green,A,89,93,30
+5940,Mettler Poly Sheen,Sour Apple,A,186,255,0
+5944,Mettler Poly Sheen,Backyard Green,A,53,70,41
+6010,Mettler Poly Sheen,Mountain Draw,A,227,255,0
+6011,Mettler Poly Sheen,Tamarack,A,209,253,170
+6051,Mettler Poly Sheen,Jalepena,A,188,203,145
+6133,Mettler Poly Sheen,Caper,A,136,122,49
+6141,Mettler Poly Sheen,Spring Green,A,225,236,185
+6156,Mettler Poly Sheen,Olive,A,67,68,48
